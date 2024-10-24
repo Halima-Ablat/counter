@@ -1,0 +1,22 @@
+.container {
+  text-align: center;
+}
+
+.number {
+  text-align: center;
+  font-size: 2.5em;
+}
+button {
+  color: white;
+  font-weight: bold;
+  background-color: rgb(30, 151, 226);
+  border: none;
+  margin-right: 5px;
+  border-radius: 3px;
+  padding: 5px 10px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: rgb(72, 168, 228);
+}
